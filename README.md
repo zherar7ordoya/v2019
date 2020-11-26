@@ -1,4 +1,8 @@
-# Cartera
+# Currículum
+
+***[Deploy](https://zherar7ordoya.github.io/v2019.github.io/)***
+
+---
 
 Ésta fue la versión definitiva de portfolio en el 2019. La así llamada versión
 2017 originalmente era esta, pero la modifiqué para poder satisfacer las "user
@@ -13,9 +17,7 @@ originalmente antes de avanzar.
 > despliegue del próximo portfolio, pero lo dejo como reseña de esas cosas que
 > Heroku tiene.
 
----
-
-**Easter Eggs**
+## Easter Eggs
 
 -   [Bouncing!](https://zherar7ordoya.github.io/bouncing/)
 -   [Slideshow!](https://zherar7ordoya.github.io/slideshow/)
